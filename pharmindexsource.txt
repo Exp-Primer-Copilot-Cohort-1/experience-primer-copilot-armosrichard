@@ -1,0 +1,1074 @@
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="google-site-verification" content="LnhlYHL_C0fVpf148Shc0zUzHyFmlX3NuzB_s7u_jFM" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/image/site/logos/pho_favicon_114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/image/site/logos/pho_favicon_72x72.png">
+    <link rel="apple-touch-icon-precomposed" href="/image/site/logos/pho_favicon_32x32.png">
+    <link rel="shortcut icon" href="/image/site/logos/favicon.ico" type="image/ico">
+    <link rel="icon" href="/image/site/logos/favicon.ico" sizes="32x32">
+    <link rel="manifest" href="/manifest.json">
+    <title>Orvosi kifejez&#xE9;sek - Adatt&#xE1;rak | PHARMINDEX Online</title>
+        <meta name="keywords" content="orvosi-kifejez&#xE9;sek" />
+    <meta name="description" content="Orvosi kifejez&#xE9;sek t&#xE1;ra." />
+        <meta property="og:image" content="/image/site/logos/pho_favikon_200x200.png">
+        <meta property="og:image:type" content="image/png">
+    <meta property="og:description" content="Orvosi kifejez&#xE9;sek t&#xE1;ra.">
+        <meta property="og:type" content="website">
+    <meta name="DC.description" lang="hu" content="Orvosi kifejez&#xE9;sek t&#xE1;ra.">
+
+<meta name="name" content="PHARMINDEX Online" />
+<meta name="referrer" content="unsafe-URL" />
+
+<meta property="og:url" content="https://www.pharmindex-online.hu/adattarak/orvosi-kifejezesek">
+<meta property="og:title" content="Orvosi kifejez&#xE9;sek - Adatt&#xE1;rak | PHARMINDEX Online">
+<meta property="og:locale" content="hu_HU">
+<meta property="fb:app_id" content="1591684101126590">
+
+<meta name="DC.title" lang="hu" content="Orvosi kifejez&#xE9;sek - Adatt&#xE1;rak | PHARMINDEX Online">
+<meta name="DC.format" content="text/html">
+<meta name="DC.type" content="Text">
+<meta name="DC.language" content="hu">
+<meta name="DC.publisher" content="Vidal Next Kft.">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Pharmindex_hu">
+
+<meta name="application-name" content="PHARMINDEX Online" />
+<meta name="theme-color" content="#FEC23E" />
+<meta name="msapplication-TileColor" content="#FEC23E">
+<meta name="msapplication-square150x150logo" content="/image/site/logos/pho_favikon_150x150.png">
+<meta name="msapplication-TileImage" content="/image/site/logos/pho_favikon_200x200.png">
+<meta name="msapplication-TileColor" content="#FEC23E">
+
+
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://identity.pharmindex.hu/css/resources/style.css" />
+    <link rel="stylesheet" href="/css/fa-all.css" />
+    <link rel="stylesheet" href="/css/styles.css?v=sXivSmK9nN6nWJB_0uZfBTw5Bn_bf2Dgm2Ra72JSZ9o" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZRJF76TTVN"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+		</script>
+			<script>
+				gtag('config', 'G-ZRJF76TTVN', {
+					'user_id': '68qw8tamtvy4olparahbg8ru',
+
+					'profession': 'Általános orvostan,Belgyógyászat',
+					'profession_concat': 'oa,bel',
+					'sub': '68qw8tamtvy4olparahbg8ru',
+					'registration_type': 'Orvos',
+					'logged_in': 'authenticated',
+
+				});
+			</script>
+		<script>
+			(function () {
+				function getCookie(name) {
+					const value = "; " + document.cookie;
+					const parts = value.split("; " + name + "=");
+
+					if (parts.length === 2) {
+						return decodeURIComponent(parts.pop().split(";").shift());
+					}
+				}
+
+				function setCookie(name, value, options) {
+					options = options || {};
+
+					let expires = options.expires;
+
+					if (typeof expires === "number" && expires) {
+						const date = new Date();
+						date.setTime(date.getTime() + expires * 60 * 1000);
+						expires = options.expires = date;
+					}
+
+					if (expires && expires.toUTCString) {
+						options.expires = expires.toUTCString();
+					}
+
+					value = encodeURIComponent(value);
+
+					let updatedCookie = name + "=" + value;
+
+					for (const prop in options) {
+						updatedCookie += "; " + prop;
+						const propValue = options[prop];
+
+						if (propValue !== true) {
+							updatedCookie += "=" + propValue;
+						}
+					}
+
+					document.cookie = updatedCookie;
+				}
+
+				(function uniquePageview() {
+					const cookieOptions = { path: '/', domain: location.hostname, secure: true, expires: 30 };
+					let uniquePageviews = getCookie("unique-pageviews");
+
+					if (uniquePageviews) {
+						uniquePageviews = JSON.parse(uniquePageviews);
+					} else {
+						uniquePageviews = [];
+					}
+
+					if (uniquePageviews.indexOf(location.pathname) !== -1) {
+						return;
+					}
+
+					uniquePageviews.push(location.pathname);
+					if (JSON.stringify(uniquePageviews).length > 4096) {
+						return;
+					}
+					setCookie("unique-pageviews", JSON.stringify(uniquePageviews), cookieOptions);
+
+					const properties = { };
+					gtag('event', 'unique_page_view', properties);
+				})();
+			})();
+		</script>
+
+    
+
+	<script type="text/javascript" src="https://gemhu.adocean.pl/files/js/ado.js"></script>
+	<script type="text/javascript">
+		/* (c)AdOcean 2003-2021 */
+		if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};}
+
+		ado.config({ mode: "old", xml: false, consent: true, characterEncoding: true, attachReferrer: true, fpc: "auto", defaultServer: "gemhu.adocean.pl", cookieDomain: "SLD" });
+
+		ado.preview({enabled: true});
+	</script>
+				<script type="text/javascript">
+					/* (c)AdOcean 2003-2020, MASTER: vidalnext_hu.dev.pharmindexonline.hu.PHO aloldalak */
+					ado.master({id: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7', server: 'gemhu.adocean.pl', keys: 'rt Orvos,p Általános orvostan,p Belgyógyászat,68qw8tamtvy4olparahbg8ru,@gmail.com' });
+				</script>
+
+    <script type='application/ld+json'>
+        {
+            "@context": "https://www.schema.org",
+            "@type": "WebSite",
+            "name": "PHARMINDEX Online",
+            "url": "https://www.pharmindex-online.hu"
+        }
+    </script>
+
+
+</head>
+<body class="search-page">
+    
+
+
+<header>
+    <div class="container-fluid logo-row" id="logo-row">
+        <div class="container d-flex align-items-center">
+            <div class="logo">
+                    <a href="/">
+                        <img src="/image/site/logos/ph_online_logo.png" alt="PHARMINDEX Online - gy&#xF3;gyszerek, h&#xED;rek, keres&#x151;k" title="PHARMINDEX Online - gy&#xF3;gyszerek, h&#xED;rek, keres&#x151;k" />
+                    </a>
+            </div>
+            <div class="profile ml-auto align-self-center d-none d-md-block">
+                    <div class="logged-in">
+                        <div class="dropdown">
+                            <button class="btn" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="yellow">Belépve: </span><b>Dr. &#xC1;rm&#xF3;s Rich&#xE1;rd Levente</b>
+                                <i class="fa fa-user-md">
+                                    <span class="bubble-container bubbling" id="bubble-counter-top" style="display: none">
+                                        <span class="bubble-number"></span>
+                                    </span>
+                                </i>
+                                <span class="login_line"></span>
+                            </button>
+                            <div class="dropdown-menu dropdown-menu-right profile" aria-labelledby="dropdownMenuButton">
+                                <div class="d-flex profile-row">
+                                    <div class="profile-icon">
+                                        <img src="/image/site/icons/usericon_circled.png" alt="PHARMINDEX Online - gy&#xF3;gyszerek, h&#xED;rek, keres&#x151;k" title="PHARMINDEX Online - gy&#xF3;gyszerek, h&#xED;rek, keres&#x151;k" />
+                                    </div>
+                                    <div class="user-name">
+                                        <p>Dr. &#xC1;rm&#xF3;s Rich&#xE1;rd Levente</p>
+                                        <a class="yellow arrow-link" target="_blank" href="https://account.pharmindex.hu/profile">Adatmódosítás</a>
+                                    </div>
+                                </div>
+                                <div class="d-flex mt-2">
+                                    <a class="btn btn-border" href="/fiok/uzenetek"><i class="fa fa-envelope"></i> <span class="bubble-number bubble-dd" style="none"></span> Üzenetek </a>
+                                    <a class="btn btn-primary ml-auto" href="https://identity.pharmindex.hu/Account/Logout?returnUri=https://www.pharmindex-online.hu">Kilépés</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+
+
+
+            <div class="mobile-menu ml-auto d-md-none">
+                <button class="navbar-toggler" type="button" onclick="openNav()"><i class="fa fa-bars fa-fw" aria-hidden="true"></i></button>
+                <div id="menu-container" class="sidenav">
+                    <div class="search">
+                        <form method="get" action="/kereses" class="form-inline">
+                            <div class="form-group fused">
+                                <input type="text" name="q" placeholder="Keresés" class="form-control" />
+                                <button type="submit" class="btn btn-primary">Keresés</button>
+                            </div>
+                        </form>
+                    </div>
+                    
+                        <div class="menu container-fluid">
+                            <ul>
+                                            <li class="nav-item dropdown">
+                                                <a class="btn nav-link text-left" data-toggle="collapse" href="#collapse-menu-0" role="button" aria-expanded="false" aria-controls="collapse-menu-0">Gy&#xF3;gyszerek</a>
+                                                <div class="collapse" id="collapse-menu-0">
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerkereso">Gy&#xF3;gyszerkeres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/hatoanyagok">Hat&#xF3;anyag keres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/helyettesithetoseg">Helyettes&#xED;thet&#x151;s&#xE9;g keres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/atc">ATC keres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/bno">BNO - Indik&#xE1;ci&#xF3; keres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/bno-eujogcim">BNO - E&#xFC;. jogc&#xED;m keres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/gyartok">Gy&#xE1;rt&#xF3; keres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/interakcio">Interakci&#xF3; vizsg&#xE1;lat</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszertorzs-valtozas">Gy&#xF3;gyszert&#xF6;rzs v&#xE1;ltoz&#xE1;s</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/laktoz">Lakt&#xF3;ztartalm&#xFA; gy&#xF3;gyszerek</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/patikan-kivul">Patik&#xE1;n k&#xED;v&#xFC;l is kaphat&#xF3; term&#xE9;kek</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/fokozott-felugyelet">Fokozott fel&#xFC;gyelet alatt &#xE1;ll&#xF3; gy&#xF3;gyszerek</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/hianycikk-reszletes">Term&#xE9;khi&#xE1;ny keres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/gyogyszerek/teteles-elszamolas">T&#xE9;teles elsz&#xE1;mol&#xE1;s</a>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item dropdown">
+                                                <a class="btn nav-link text-left" data-toggle="collapse" href="#collapse-menu-1" role="button" aria-expanded="false" aria-controls="collapse-menu-1">Adatt&#xE1;rak</a>
+                                                <div class="collapse" id="collapse-menu-1">
+                                                        <a class="nav-link dropdown-item" href="/termekkereso">Term&#xE9;kkeres&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/adattarak/orvosi-kifejezesek">Orvosi kifejez&#xE9;sek</a>
+                                                        <a class="nav-link dropdown-item" href="/adattarak/e-szamok">E-sz&#xE1;mok</a>
+                                                        <a class="nav-link dropdown-item" href="/adattarak/laborvizsgalatok">Laborvizsg&#xE1;latok</a>
+                                                        <a class="nav-link dropdown-item" href="/kalkulatorok">Kalkul&#xE1;torok</a>
+                                                </div>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="btn nav-link text-left no-children" href="/terapias-iranyelvek">Ter&#xE1;pi&#xE1;s ir&#xE1;nyelvek</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="btn nav-link text-left no-children" href="/hirek-cikkek">H&#xED;rek, cikkek</a>
+                                            </li>
+                                            <li class="nav-item dropdown">
+                                                <a class="btn nav-link text-left" data-toggle="collapse" href="#collapse-menu-4" role="button" aria-expanded="false" aria-controls="collapse-menu-4">Rovatok</a>
+                                                <div class="collapse" id="collapse-menu-4">
+                                                        <a class="nav-link dropdown-item" href="/rovat/diabetologia">Diabetol&#xF3;gia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/endokrinologia">Endokrinol&#xF3;gia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/farmakovigilancia">Farmakovigilancia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/gasztroenterologia">Gasztroenterol&#xF3;gia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/gyogyszer-forgalmazas">Gy&#xF3;gyszer-forgalmaz&#xE1;s</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/hematologia">Hematol&#xF3;gia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/infektologia">Infektol&#xF3;gia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/egeszsegugyi-digitalizacio">Eg&#xE9;szs&#xE9;g&#xFC;gyi digitaliz&#xE1;ci&#xF3;</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/majomhimlo">Majomhiml&#x151;</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/neurologia">Neurol&#xF3;gia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/onkologia">Onkol&#xF3;gia</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/szakmapolitika">Szakmapolitika</a>
+                                                        <a class="nav-link dropdown-item" href="/rovat/tudogyogyaszat">T&#xFC;d&#x151;gy&#xF3;gy&#xE1;szat</a>
+                                                </div>
+                                            </li>
+                            </ul>
+                        </div>
+                    
+                    <div class="featured-page container-fluid">
+                        <h2>Kiemelt oldalak</h2>
+                        <div class="rubrics">
+                            <a class="menu-item rubric-microsite vakcinologia double-arrow-link" href="/rovat/vakcinologia">Vakcinológia</a>
+                            <a class="menu-item rubric-microsite trombinfo double-arrow-link" href="/rovat/baycardinfo">Baycardinfo</a>
+                            <a class="menu-item rubric-microsite medimagister double-arrow-link" href="/medimagister">MediMagister</a>
+                                                        
+                                    <a class="menu-item left-arrow-link" href="/rovat/koronavirus">Koronav&#xED;rus </a>
+                                    <a class="menu-item left-arrow-link" href="/rovat/patikai-gyakorlat">Patikai gyakorlat </a>
+                                    <a class="menu-item left-arrow-link" href="/rovat/dohanyzasrol-leszokas">Doh&#xE1;nyz&#xE1;sr&#xF3;l leszok&#xE1;s </a>
+                                    <a class="menu-item left-arrow-link" href="/rovat/kardiologia">Kardiol&#xF3;gia </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</div>
+    </div>
+
+    <div class="container-fluid menu-row d-none d-md-block">
+        <div class="container d-flex">
+            <div class="main-menu">
+                <nav>
+                    <a class="navbar-home" href="/"><i class="fa fa-home" aria-hidden="true"></i></a>
+                    <ul class="navbar-nav">
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Gy&#xF3;gyszerek</a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                            <a class="nav-link dropdown-item" href="/gyogyszerkereso">Gy&#xF3;gyszerkeres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/hatoanyagok">Hat&#xF3;anyag keres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/helyettesithetoseg">Helyettes&#xED;thet&#x151;s&#xE9;g keres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/atc">ATC keres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/bno">BNO - Indik&#xE1;ci&#xF3; keres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/bno-eujogcim">BNO - E&#xFC;. jogc&#xED;m keres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/gyartok">Gy&#xE1;rt&#xF3; keres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/interakcio">Interakci&#xF3; vizsg&#xE1;lat</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszertorzs-valtozas">Gy&#xF3;gyszert&#xF6;rzs v&#xE1;ltoz&#xE1;s</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/laktoz">Lakt&#xF3;ztartalm&#xFA; gy&#xF3;gyszerek</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/patikan-kivul">Patik&#xE1;n k&#xED;v&#xFC;l is kaphat&#xF3; term&#xE9;kek</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/fokozott-felugyelet">Fokozott fel&#xFC;gyelet alatt &#xE1;ll&#xF3; gy&#xF3;gyszerek</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/hianycikk-reszletes">Term&#xE9;khi&#xE1;ny keres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/gyogyszerek/teteles-elszamolas">T&#xE9;teles elsz&#xE1;mol&#xE1;s</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Adatt&#xE1;rak</a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                            <a class="nav-link dropdown-item" href="/termekkereso">Term&#xE9;kkeres&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/adattarak/orvosi-kifejezesek">Orvosi kifejez&#xE9;sek</a>
+                                            <a class="nav-link dropdown-item" href="/adattarak/e-szamok">E-sz&#xE1;mok</a>
+                                            <a class="nav-link dropdown-item" href="/adattarak/laborvizsgalatok">Laborvizsg&#xE1;latok</a>
+                                            <a class="nav-link dropdown-item" href="/kalkulatorok">Kalkul&#xE1;torok</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/terapias-iranyelvek">Ter&#xE1;pi&#xE1;s ir&#xE1;nyelvek</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/hirek-cikkek">H&#xED;rek, cikkek</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Rovatok</a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                            <a class="nav-link dropdown-item" href="/rovat/diabetologia">Diabetol&#xF3;gia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/endokrinologia">Endokrinol&#xF3;gia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/farmakovigilancia">Farmakovigilancia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/gasztroenterologia">Gasztroenterol&#xF3;gia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/gyogyszer-forgalmazas">Gy&#xF3;gyszer-forgalmaz&#xE1;s</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/hematologia">Hematol&#xF3;gia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/infektologia">Infektol&#xF3;gia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/egeszsegugyi-digitalizacio">Eg&#xE9;szs&#xE9;g&#xFC;gyi digitaliz&#xE1;ci&#xF3;</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/majomhimlo">Majomhiml&#x151;</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/neurologia">Neurol&#xF3;gia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/onkologia">Onkol&#xF3;gia</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/szakmapolitika">Szakmapolitika</a>
+                                            <a class="nav-link dropdown-item" href="/rovat/tudogyogyaszat">T&#xFC;d&#x151;gy&#xF3;gy&#xE1;szat</a>
+                                    </div>
+                                </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="search ml-auto d-none d-md-flex">
+                <div class="dropdown dropleft">
+                    <a class="magnify" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-search"></i></a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        <form method="get" action="/kereses" class="form-inline">
+                            <div class="form-group fused">
+                                <input type="text" name="q" placeholder="Keresés" class="form-control" />
+                                <button type="submit" class="btn btn-primary">Keresés</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+		</div>
+				<div class="container-fluid rubric-menu-row d-none d-md-block">
+		<div class="container rubric-menu d-none d-md-table">
+			<a class="menu-item rubric-microsite vakcinologia" href="/rovat/vakcinologia">Vakcinológia</a>
+            <a class="menu-item rubric-microsite trombinfo" href="/rovat/baycardinfo">Baycardinfo</a>
+			<a class="menu-item rubric-microsite medimagister" href="/medimagister">MediMagister</a>
+
+					<a class="menu-item left-arrow-link" href="/rovat/koronavirus">Koronav&#xED;rus </a>
+					<a class="menu-item left-arrow-link" href="/rovat/patikai-gyakorlat">Patikai gyakorlat </a>
+					<a class="menu-item left-arrow-link" href="/rovat/dohanyzasrol-leszokas">Doh&#xE1;nyz&#xE1;sr&#xF3;l leszok&#xE1;s </a>
+					<a class="menu-item left-arrow-link" href="/rovat/kardiologia">Kardiol&#xF3;gia </a>
+		</div>
+    </div>
+</header>
+
+<div class="mobile-user-info d-md-none" id="mobile-user-info">
+    <div class="profile">
+            <div class="d-flex">
+                <div class="profile-icon">
+                    <img src="/image/site/icons/usericon_circled.png" alt="PHARMINDEX Online - gy&#xF3;gyszerek, h&#xED;rek, keres&#x151;k" title="PHARMINDEX Online - gy&#xF3;gyszerek, h&#xED;rek, keres&#x151;k" />
+                </div>
+                <div class="user-name">
+                    <p>Dr. &#xC1;rm&#xF3;s Rich&#xE1;rd Levente</p>
+                    <a class="yellow arrow-link" target="_blank" href="https://account.pharmindex.hu/profile">Adatmódosítás</a>
+                </div>
+            </div>
+            <div class="d-flex mt-2">
+                <a class="btn btn-border" href="/fiok/uzenetek"><i class="fa fa-envelope"></i> <span class="bubble-number bubble-dd" style="none"></span> Üzenetek </a>
+                <a class="btn btn-primary ml-auto" href="https://identity.pharmindex.hu/Account/Logout?returnUri=http%3A%2F%2Fwww.pharmindex-online.hu%2F">Kilépés</a>
+            </div>
+    </div>
+</div>
+
+
+	
+
+
+
+                    <div class="wallpaper-super-leaderboard ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhuqoqfglkunw"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhuqoqfglkunw', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+
+
+    
+
+
+
+    <div class="container my-md-3">
+        
+
+
+
+                    <div class="left wide-sky ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhuoegpdvqfze"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhuoegpdvqfze', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+
+
+
+
+                    <div class="right wide-sky ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhuyfemkpepeu"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhuyfemkpepeu', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+
+        
+
+
+
+
+
+
+                    <div class="super-leaderboard ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhuvglsnmotdp"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhuvglsnmotdp', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+
+
+<main role="main" class="row lightblue-vakci-background">
+
+
+
+    <div class="col-lg-8 col-12 mb-5">
+        
+
+
+<div class="page-title d-flex">
+    <h1>Orvosi kifejezések</h1>
+</div>
+
+<p>Ezen az oldalon az orvosi gyakorlatban gyakran használt latin-görög (kisebb részben angol, esetenként német) orvosi kifejezések és magyarázataik szerepelnek a humán anatómiai nevektől a tünetek, a betegségek és az állapotok megnevezésén át egyes vegyületek (enzimek, hormonok, gyógyszer-molekulák) nevéig.</p>
+
+<form method="get" class="form-inline mb-3">
+    <div class="form-group fused">
+        <input type="text" name="q" placeholder="Keresett kifejezés" class="form-control" value="">
+        <button type="submit" class="btn btn-primary">Keresés</button>
+    </div>
+</form>
+
+<div class="search-result">
+        <div class="col">
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zygomaticus</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A járomcsontra vonatkozó.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zygomaxillaris pont</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Craniometriában használt pont, mely külsőleg a zygomaticomaxillaris sutura legalsó kiterjedésénél található.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zygomaxillary ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>zygomaxillaris pont SZIN zygomaxillare.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>Zygomycetes</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A gombák egy osztálya, melyre a zygospóra képződéssel járó szexuális, és a sporangiospóra vagy conidium néven ismert, nem mozgó spórák útján létrejövő aszexuális szaporodás jellemző. (zygo- + G. <i>mykes (myket-), </i>gomba)</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zygomycosis</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A Zygomycetes osztályba tartozó nemzetségek, pl. <i>Absidia, Mortierella, Mucor, Rhizopus </i>által kiváltott gombás fertőzés. A <i>Conidiobolus </i>és <i>Basidiobolus</i> nemzetségek szintén rendelkeznek betegséget okozó fajokal. Syn mucormycosis, phycomycosis.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zygon</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A fissura zygomatica szárait öszekötő rövid keresztléc. (G. keresztgerenda, járom)</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zym-</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Ld zymo-.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zymo-, zym-</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Erjedés, enzimek. (G. <i>zyme,</i> kovász)</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>zymogen sejt</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Enzimtermelő sejt, különösen a gyomornyálkahártya fősejtje, illetve a hasnyálmirigy acinus sejtje. Syn pepticus sejt</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>(alfa) <i>ld: alpha</i></p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Egy, két vagy több, az α-globin lánc szintézisét gátló génre vonatkozó.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α<sub>1</sub>-~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Aránylag alacsony molekulasúlyú, nagy sűrűségű, foszfolipidben gazdag ~ frakció, mely az emberi plazma α<sub>1</sub>-globulin frakciójában található.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α<sub>2</sub>-antiplazmin</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A plazminnak és a plazminogénnek proteáz gátlója, a fibrinolítikus rendszer kulcsenzime. Gátolja a többi szerin proteázt is, így a koaguláció kontakt faktorát, a Xa faktort és a thrombint.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α-1-antitrypsin hiányos ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>α-1-antitripszinhiányos p. súlyos antitripszinhiányban jelentkező fájdalmas subcutan csomók.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α-adrenerg receptor blokkolók</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Olyan hatóanyagok, amely kompetitív módon gátolják az α-adrenoceptorokat. A hypertensio kezelésében kerülnek felhasználásra.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α-aminosav</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Olyan ~, amelynek általános képlete: R-CHNH<sub>2</sub>-COOH (vagyis az NH<sub>2</sub> &#x03B1; helyzetben található a -COOH csoport mellett). A proteinek hidrolízisének termékei az L-α-aminosavak.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α-amino-szukcinilsav</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>szinonima: aszparaginsav</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α-dextrin-endo-1,6 α-glikozidáz</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Enzim, melynek hatása hasonló az izoamilázéhoz, vagyis a pullalanban, az amilopektinben és a glikogénben hasítja az 1,6 α- glikozid kötéseket. Vö. izoamiláz.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α-D-galaktozidáz</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Enzim, amely az α-D-galaktozidok hidrolízisét katalizálja, ennek során D-galaktóz szabadul fel. Az A típusú α-D-galaktozidáz hiánya a Fabry betegséggel társul.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>α-sejt</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>1. Az agyalapi mirigy elülső lebenyének mintegy 35%-át alkotó acidophil sejtek két csoportja, az egyik csoport a somatotrop hormont, a másik a mammotrop hormont termeli. 2. A Langerhans-szigetek glukagont termelő sejtjei. 3. Syn A-sejt</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>1. A görög ábécé második betűje. 2. Kémiában egy sorozat második tagját jelöli, vagy egy gyök második szénatomját.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Gamma. Ld gamma.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Kettő vagy több génre vonatkozik, melyek a β-globin lánc szintézisét elnyomják (részben vagy egészben).</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Egy génre vonatkozik, mely mind a β-, mind a -globin lánc szintézisét gátolja.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β<sub>1</sub>-~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Aránylag magas molekulasúlyú, alacsony denzitású, koleszterinben gazdag ~ frakció, mely az emberi plazma β-globulin frakciójában található.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β<sub>1C</sub> ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Komplement C3. Ld komplement <i>alkotórész</i>.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β<sub>1E</sub> ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Komplement C4. Ld komplement <i>alkotórész</i>.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β<sub>1F</sub> ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Komplement C5. Ld komplement <i>alkotórész</i>.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-adrenerg receptor blokkolók</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A gyógyszerek azon csoportja, amelyek a -adrenerg agonistákkal kompetitív módon versengenek a rendelkezésre álló receptor helyek iránt. Egyes vegyületek mind a e<sub>1</sub>- és -<sub>2</sub>-receptorokat blokkolják (pl. propranolol), míg mások csak a -<sub>1</sub>- (pl. metoprolol), vagy csak a -<sub>2</sub>-receptorokat gátolják. A --receptor blokkolók elsősorban különböző cardiovascularis betegségekben alkalmazandók, ahol a g-adrenerg blokád kívánatos. A -<sub>1</sub>-receptor (kardioszelektív) blokkolók előnye a non-szelektív vegyületekkel szemben a kedvezőbb mellékhatás profil (&#x2193; bronchokonstrikció). Szinonima: béta-blokkolók</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-corticotropin</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Sav vagy pepszin hatására lebomlott &#x03B2;-corticotropin. Syn corticotropin (2).</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-D-galaktozidáz</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Cukorbontó enzim, mely a laktóz D-glukózzá és D-galaktózzá történő, illetve egyéb β-D-galaktozidok hidrolízisét katalizálja, csakúgy, mint a galaktotranszferáz reakciókat; ezen enzim hiánya a laktóz bélben történő emésztésének elégtelenségéhez vezet; a tejtermékek előállítása során alkalmazzák azon felnőttek részére, akik nem rendelkeznek ezzel az intestinalis diszacharidázzal; a &#x03B2;-D-galaktozidáz egyik inzoenzimjének elégtelensége a B típusú Morquio szindrómához társul. Syn laktáz.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-D-glukuronidáz</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A β-D-glukuronidok hidrolízisét katalizáló enzim, a reakció során D-glukuronsav és alkohol szabadul fel; az enzim hiánya Sly szindrómával áll kapcsolatban.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-D-glukuronidáz ~</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Ritka, autoszomális recesszív öröklődésmenetű kórkép, amely többféle allélikus alakban fordul elő. Az abnormális mukopoliszacharid anyagcsere következtében progressiv mentalis degeneratio, hepatosplenomegalia és dysostosis multiplex észlelhető.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-laktám</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Penicillinekben és Cefalosporinokban található ciklikus egység, gyűrű.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-laktamáz</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>A β-laktamáz gyűrű hidrolízisét végző enzim, (penicillinből penicillinsavat alakít ki), a penicillin-rezisztens Staphylococcus-törzsekben található.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>β-sejt</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>1. A hypophysis elülső lebenyének basophil szemcséket tartalmazó, feltehetően gonadotropint termelő sejtjei. Syn B-sejt 2. A Langerhans-szigetek domináns, inzulint termelő sejtjei.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>δ</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Ld delta.</p>
+                </div>
+            </div>
+            <div class="row datastore-result">
+                <div class="col-sm-3">
+                    <b>ε</b>
+                </div>
+                <div class="col-sm-9">
+                    <p>Epszilon.</p>
+                </div>
+            </div>
+        </div>
+
+
+<div class="paging_simple_numbers">
+    <ul class="pagination">
+                <li class="paginate_button page-item previous" id="dataTable_previous">
+                    <a href="/adattarak/orvosi-kifejezesek" class="page-link">Első</a>
+                </li>
+                <li class="paginate_button page-item ">
+                    <a href="/adattarak/orvosi-kifejezesek?p=586" class="page-link">586</a>
+                </li>
+                <li class="paginate_button page-item ">
+                    <a href="/adattarak/orvosi-kifejezesek?p=587" class="page-link">587</a>
+                </li>
+                <li class="paginate_button page-item ">
+                    <a href="/adattarak/orvosi-kifejezesek?p=588" class="page-link">588</a>
+                </li>
+                <li class="paginate_button page-item active">
+                    <a href="/adattarak/orvosi-kifejezesek?p=589" class="page-link">589</a>
+                </li>
+    </ul>
+</div></div>
+
+
+    </div>
+    <div class="col-lg-4 col-12">
+        
+
+
+                
+                    <div class="box colored mb-4" id="product-search">
+    <div class="box-header d-flex">
+        <h2>Gyógyszerkereső</h2>
+        <i class="fas fa-info-circle ml-auto" data-toggle="popover" data-placement="top" data-trigger="hover" data-content="Gyógyszer, tápszer, étrendkiegészítő, gyógyászati segédeszköz, egyéb gyógyszertári termékek adatainak keresése"></i>
+    </div>
+    <div class="box-content">
+        <form method="post" action="/gyogyszerkereso" class="form-inline">
+            <div class="form-group fused">
+                <input type="text" name="QueryString" placeholder="Keresés" class="form-control product-search-input" />
+                <button type="submit" class="btn btn-primary">Keresés</button>
+            </div>
+        </form>
+        <p class="text-center mb-0 mt-1">
+            <a class="arrow-link yellow" href="/gyogyszerkereso"><b>Részletes keresés</b></a>
+        </p>
+    </div>
+</div>
+                
+
+
+
+
+	<div class="box gray mb-4">
+        <div class="box-header">
+            <h2>Kiemelt term&#xE9;kek</h2>
+        </div>
+        <div class="box-content">
+			
+
+
+
+
+                    <div class="block-medium-rectangle">
+                        <span class="ad-label"></span>
+                        <div id="adoceangemhuobnrjtepha"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhuobnrjtepha', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+            
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+                    <div class="medium-rectangle ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhulfnfhskkuz"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhulfnfhskkuz', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+                
+                    
+
+<div class="block box gray mb-4" id="calculators">
+    <div class="box-header">
+        <h2>Kalkul&#xE1;torok</h2>
+    </div>
+    <div class="box-content">
+        <div class="calculator-item">
+            <a href="/kalkulatorok/dohanyzas">
+                <img src="/image/site/icons/calculators/08_dohanyzas.png" alt="Dohányzás" title="Dohányzás" />
+                <span>Dohányzás</span>
+            </a>
+        </div>
+        <div class="calculator-item">
+            <a href="/kalkulatorok/bmi">
+                <img src="/image/site/icons/calculators/01_bmi.png" alt="BMI" title="BMI" />
+                <span>Testtömeg index (BMI)</span>
+            </a>
+        </div>
+        <div class="calculator-item">
+            <a href="/kalkulatorok/peteeres">
+                <img src="/image/site/icons/calculators/02_peteeres.png" alt="Peteérés" title="Peteérés" />
+                <span>Peteérés</span>
+            </a>
+        </div>
+        <div class="calculator-item">
+            <a href="/kalkulatorok/terminus">
+                <img src="/image/site/icons/calculators/04_terminus.png" alt="Terminus számítás" title="Terminus számítás" />
+                <span>Terminus</span>
+            </a>
+        </div>
+        <div class="calculator-item">
+            <a href="/kalkulatorok/stroke">
+                <img src="/image/site/icons/calculators/06_stroke.png" alt="Stroke" title="Stroke" />
+                <span>Stroke</span>
+            </a>
+        </div>
+        <div class="calculator-item">
+            <a href="/kalkulatorok/energia-felhasznalas">
+                <img src="/image/site/icons/calculators/07_energia-felhasznalas.png" alt="Energia-felhasználás" title="Energia-felhasználás" />
+                <span>Energia-felhasználás</span>
+            </a>
+        </div>
+        <a class="yellow arrow-link" href="/kalkulatorok">további kalkulátorok</a>
+    </div>
+</div>
+                
+
+
+
+
+
+
+
+
+                    <div class="half-page ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhuucismknmkk"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhuucismknmkk', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+
+    </div>
+</main>
+
+<div class="content-footer row lightblue-vakci-background">
+    <div class="col">
+        
+    </div>
+</div>
+
+<div class="row lightblue-vakci-background">
+    <div class="col mb-3">
+        
+
+
+
+                    <div class="super-leaderboard-bottom ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhushcjbkiieo"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhushcjbkiieo', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+    
+    </div>
+</div>
+
+
+    </div>
+
+    
+
+<i class="fa fa-arrow-up to-the-top d-none" title="Vissza az oldal tetejére" aria-hidden="true"></i>
+<footer class="container">
+    
+        <div class="row nav-row">
+            <nav class="col-12">
+                <ul class="nav justify-content-center">
+                            <li class="footer-menu-link"><a href="/gyogyszerkereso">Gy&#xF3;gyszerek</a></li>
+                            <li class="footer-menu-link"><a href="/adattarak">Adatt&#xE1;rak</a></li>
+                            <li class="footer-menu-link"><a href="/terapias-iranyelvek">Ter&#xE1;pi&#xE1;s ir&#xE1;nyelvek</a></li>
+                            <li class="footer-menu-link"><a href="/hirek-cikkek">H&#xED;rek, cikkek</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="row">
+            <nav class="col-12">
+                <ul class="nav justify-content-center">
+                            <li class="footer-menu-link"><a href="/impresszum">Impresszum</a></li>
+                            <li class="footer-menu-link"><a href="/adatvedelem">Adatv&#xE9;delem</a></li>
+                            <li class="footer-menu-link"><a href="/cookie-policy">S&#xFC;tik (cookie)</a></li>
+                            <li class="footer-menu-link"><a href="/jogi-nyilatkozat">Jogi nyilatkozat &#xE9;s felhaszn&#xE1;l&#xE1;si felt&#xE9;telek</a></li>
+                            <li class="footer-menu-link"><a href="/rss-info"><i class="fa fa-rss-square"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div id="footer-caution">
+                    <p><b>Jelen weboldal egészségügyi szakembereknek szól, a legtöbb tartalom csak belépés után tekinthető meg.</b></p><p>A hozzáférési lehetőségekkel kapcsolatban <a class="link_simple" href="https://www.pharmindex.hu/termek/pharmindex-online/" target="_blank">itt</a> talál bővebb információkat.</p><p>Amennyiben Ön nem az Egészségügyi Nyilvántartási és Képzési Központ nyilvántartásában szereplő egészségügyi szakember és/vagy nem az egészségügyben dolgozik, a következő figyelmeztetés Önnek szól.</p><p><b>Figyelmeztetés!</b> Az oldalon található információk, amennyiben azt - jelen weboldal kiadója szándékai ellenére - nem egészségügyi szakember olvassa, tájékoztató jellegűek, semmilyen esetben sem helyettesítik szakember véleményét! Gyógyszerekkel kapcsolatban a kockázatokról és mellékhatásokról, olvassa el a betegtájékoztatót, vagy kérdezze meg kezelőorvosát, gyógyszerészét! Nem gyógyszer termékekkel kapcsolatban a kockázatokról olvassa el a használati útmutatót vagy kérdezze meg kezelőorvosát!</p>
+                </div>
+            </div>
+        </div>
+        <div class="row nav-row">
+            <span class="text-center col-12"><b>További oldalaink:</b></span>
+        </div>
+        <div class="row">
+            <nav class="col-12">
+                <ul class="nav justify-content-center foreign-site">
+                            <li class="footer-menu-link"><a href="https://www.pharmindex.hu/">PHARMINDEX</a></li>
+                            <li class="footer-menu-link"><a href="https://www.pharmindex.hu/termekeink#nyomtatott">Nyomtatott kiadv&#xE1;nyok</a></li>
+                            <li class="footer-menu-link"><a href="https://www.pharmindex.hu/termekeink#digitalis">Digit&#xE1;lis kiadv&#xE1;nyok</a></li>
+                            <li class="footer-menu-link"><a href="https://www.pharmindex.hu/hirek/">H&#xED;rek</a></li>
+                            <li class="footer-menu-link"><a href="https://www.pharmindex.hu/gyakori-kerdesek/">Gyakori k&#xE9;rd&#xE9;sek</a></li>
+                </ul>
+            </nav>
+        </div>
+    
+
+            <div class="row nav-row">
+                <div class="col-12">
+                    <p class="text-center">
+                        Gyógyszer ár- és támogatási adatok érvényességének kezdete (NEAK): <em>2023. 11. 01. 00:00</em><br />
+                        PHARMINDEX gyógyszer-adatbázis legutóbbi frissítésének dátuma: <em>2023. 11. 01. 03:58</em>
+                    </p>
+                </div>
+            </div>
+
+    <div class="row nav-row">
+        <span class="text-center col-12"><b>© 2010-2023 Vidal Next Kft.<br />Minden jog fenntartva</b></span>
+    </div>
+        <img src="https://identity.apis.vidalnext.com/tracking/v2/visit?sub=68qw8tamtvy4olparahbg8ru&amp;client_id=V51LXNYQWBUCIZ93" class="tracking" />
+</footer>
+
+    
+
+
+
+                    <div class="wallpaper ads">
+                        <span class="ad-label">hirdet&#xE9;s</span>
+                        <div id="adoceangemhuolkfilothq"></div>
+                        <script type="text/javascript">
+                            ado.slave('adoceangemhuolkfilothq', {myMaster: 'VCdMnn1YPY0SWdkg19dMlT46vRUBN4cug7hINUPx.GD.b7' });
+                        </script>
+                    </div>                    
+
+
+            <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+
+    <script>
+        window.isAuthenticated = "True";
+        window.userSub = "68qw8tamtvy4olparahbg8ru";
+
+        window.CourseRefreshInterval = 30000;
+    </script>
+
+            <script src="/js/_compressed/all2.min.js?v=1YYmqzDGOxT2ZGjV3_JghOCa9em6fxbAjBoFplsoOPI"></script>
+
+    
+
+	<script>'serviceWorker'in navigator&&navigator.serviceWorker.register('/serviceworker', { scope: '/' })</script></body>
+</html>
+
